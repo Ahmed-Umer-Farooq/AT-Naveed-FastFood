@@ -1,0 +1,24 @@
+# Source material - the deployed site does not need these
+hero-video.mp4
+menu/
+Gallery.jpeg
+Menu.jpeg
+contact.jpeg
+home-hero.jpeg
+order.jpeg
+LOGO.png
+*BACKUP*.html
+
+# Superseded sprite builds - only the two cutout atlases are used
+hero-sprites/hero-atlas-480.webp
+hero-sprites/hero-atlas-960-*.webp
+hero-sprites/hero-cutout-480.webp
+hero-sprites/hero-atlas.json
+hero-sprites/hero-sprite.js
+hero-sprites/preview.html
+hero-sprites/frames/
+
+node_modules/
+.vercel
+.DS_Store
+VIDEO_TO_SPRITE_ATLAS.md
