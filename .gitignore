@@ -27,3 +27,6 @@ node_modules/
 
 # editor/tool state
 .serena/
+
+# pipeline tooling lives in Desktop/video-to-sprite, not in the deployed site
+/sprite-pipeline/
